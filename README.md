@@ -6,18 +6,23 @@ Side Quest Week 2
 
 ## Authors
 
-Rose Chen
+Rose Chen r385chen 21094940
 
 ---
 
 ## Description
 
-The blob moves left/right (A/D or ←/→) and jumps (Space/W/↑).
-Demonstrates horizontal input, gravity, ground collision, and jump gating.
+The blob expresses the emotion of Joy. As it jumps freely and mischeviously knocks all clouds out of the way.
+
+---
+## Setup and Interaction Instructions
+
+Move: A/D or ←/→  •  Jump: Space/W/↑
+---
 
 ## Assets
 
-No assets included
+No assets included.
 
 ---
 
